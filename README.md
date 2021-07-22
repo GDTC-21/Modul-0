@@ -27,9 +27,22 @@ contoh:
 - konten yang dimuat
 - engagement -> ide game nya bisa buat orang betah main nggak ... 
 
-## Managing project ?
+### Managing project ?
+1.  ketemu tiap hari (bisa via discord)
+2.  bagi-bagi tugas
+3.  check deadline
+
+### Contoh Project : 
+1.  https://github.com/gsihaj5/gigaJam
+2.  https://github.com/raassh-23/game-camin-giga
+3.  https://github.com/raassh-23/gim-jim-giga
+
+## Tips To Learn
+1. start simple
+2. progress overtime
+3. learn new things everyday :D
 
 # Persiapan Modul-Modul Selanjutnya
-## install Unity 2019.4.18f1
-## install IDE (Visual Studio / Rider )
-## install Aseprite (crack aja gapapa)
+1.  install Unity 2019.4.18f1
+2.  install IDE (Visual Studio / Rider )
+3.  install Aseprite (crack aja gapapa)
